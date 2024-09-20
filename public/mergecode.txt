@@ -1,0 +1,13 @@
+# Step 1: Switch to master branch
+git checkout master
+
+# Step 2: Pull the latest changes from master
+git pull origin master
+
+# Step 3: Merge vivek branch into master
+git merge vivek
+
+# (If any conflicts occur, resolve them and then add/commit the resolved files)
+
+# Step 4: Push the merged changes to the remote repository
+git push origin master

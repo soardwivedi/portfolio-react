@@ -9,7 +9,11 @@ function App() {
     <>
       <div>
         <Header />
-        <div className='d-flex justify-content-center pe-16'>
+        <div
+          className='d-flex justify-content-center pe
+        sa
+        -16'
+        >
           <div>
             <div class='p-2'>Hello, My Name Is</div>
             <h1 class='p-2'>Vivek Dwivedi </h1>
@@ -33,6 +37,7 @@ function App() {
                 width='700'
                 height='700'
               />
+              <div className=''>One Year of Experience</div>
             </div>
             <div class='p-2'>Flex item 2</div>
             <div class='p-2'>Flex item 3</div>
