@@ -39,7 +39,7 @@ function App() {
               />
               <div className=''>One Year of Experience</div>
             </div>
-            <div class='p-2'>Flex item 2</div>
+            <div class='p-2'>web Devloper</div>
             <div class='p-2'>Flex item 3</div>
           </div>
         </div>
