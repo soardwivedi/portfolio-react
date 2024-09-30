@@ -37,12 +37,14 @@ function App() {
                 width='700'
                 height='700'
               />
-              <div className=''>One Year of Experience</div>
             </div>
-            <div class='p-2'>web Devloper</div>
-            <div class='p-2'>Flex item 3</div>
           </div>
         </div>
+      </div>
+      <div className='d-flex flex-column p-2'>
+        <div className=''>One Year of Experience in web development</div>
+        <div>web Devloper</div>
+        <div>Flex item 3</div>
       </div>
       {/* <div>Portfollio Website</div> */}
     </>
